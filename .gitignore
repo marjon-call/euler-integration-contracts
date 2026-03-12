@@ -7,11 +7,11 @@ out/
 /broadcast/*/31337/
 /broadcast/**/dry-run/
 
-# Docs
-docs/
-
 # Dotenv file
 .env
+
+# Nexus build artifact
+nexus_build_result.yaml
 
 # Node.js modules
 node_modules/
